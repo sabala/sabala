@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/vini.sabala/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 <hr/>
 <p align="center">
-  <a href="https://steamcommunity.com/id/vncsbl/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" height=25></a>
+  <a href="https://steamcommunity.com/id/sabala/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" height=25></a>
   <a href="https://forums.comunidades.riotgames.com/t5/user/viewprofilepage/user-id/1097631"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" height=25>
   <a href="https://discord.gg/qYrymA4"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height=25></a>
 <hr/></p>
