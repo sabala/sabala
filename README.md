@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Korepi**
 - 🌱 I’m currently learning **JSON**
-- 💬 Ask me about **JS**
+- 💬 Ask me about: **JavaScript**
 
-- ⚡ Fun fact **I became interested in programming because of the games I played**
+- ⚡ Fun fact: **I became interested in programming because of the games I played**
 
 <div> <a href="https://twitter.com/vncsbl" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vncsbl" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -37,7 +37,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/sabala"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sabala" /></a></p><br><br>
 
-<img src="https://i.ibb.co/4WDQLF8/sep.png"><h3 align="center">Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/sabala">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabala&theme=monokai" height="180em" />
