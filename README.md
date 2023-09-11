@@ -2,8 +2,6 @@
 <h3 align="center"> aka Sabala</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabala&label=Profile%20views&color=0e75b6&style=flat" alt="sabala" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabala&theme=" alt="sabala" /></a> </p>
-
 - 🔭 I’m currently working on **Korepi**
 - 🌱 I’m currently learning **JSON**
 - 💬 Ask me about **JS**
