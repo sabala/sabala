@@ -37,10 +37,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/sabala"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sabala" /></a></p><br><br>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabala&langs_count=8&theme=monokai" alt=sabala />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<img src="https://i.ibb.co/4WDQLF8/sep.png"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/sabala">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabala&theme=monokai" height="180em" />
