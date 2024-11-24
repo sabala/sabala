@@ -3,7 +3,7 @@
   <a href="https://github.com/sabala">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabala&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabala&layout=compact&langs_count=7&theme=radical"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="Java" width="40" height="40"/>
@@ -16,4 +16,5 @@
 </div>
 <div> 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabala&label=Profile%20views&color=0e75b6&style=flat" alt="sabala" /> </p>
+</div>
 </div>
