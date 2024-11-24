@@ -15,6 +15,6 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </div>
 <div> 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabala&label=Profile%20views&color=0e75b6&style=flat" alt="sabala" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=sabala&label=Profile%20views&color=0e75b6&style=flat" alt="sabala" /> </p>
 </div>
 </div>
