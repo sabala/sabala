@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### A curious one. I haven't worked with front-end development frequently since 2015. 👨‍💻 Although I have a degree, I am not actively a developer, but I have been involved in a few projects here and there. However, for the past few years, I have been dedicating myself to other work. 🚀  
   
 
