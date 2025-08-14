@@ -19,8 +19,6 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
-
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -62,12 +60,6 @@
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/sabala" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a>
             <a href="https://ko-fi.com/sabala" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
@@ -75,6 +67,3 @@
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
