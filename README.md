@@ -15,7 +15,7 @@
 <br/>  
 
 ## SKILL SET  
-<table><tr><td valign="top" width="55%">
+<table><tr><td valign="baseline" width="55%">
 
 ### FRONTEND  
 <div align="center">  
