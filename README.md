@@ -10,7 +10,7 @@
 - ❓ Ask me about anything related to games, movies and javascript.  
   
 
-- ⚡ Others [socials media](https://slat.cc/sabala).  
+- ⚡ Others [socials media](https://feds.lol/sabala).  
 
 ----
  
